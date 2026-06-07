@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-- 🤝 I’m looking for help with **JOB**
+- 🤝 Working at Novigo Solutions
 
 - 👨‍💻 All of my projects are available at [rihanmn.tech](rihanmn.tech)
 
